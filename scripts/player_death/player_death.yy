@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_death",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_death",
+  "parent":{
+    "name":"Jogo",
+    "path":"folders/Cenas/Jogo.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

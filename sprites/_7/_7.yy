@@ -13,6 +13,8 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"acd7e185-e58a-4456-bbc6-554ee449cd2f","name":"acd7e185-e58a-4456-bbc6-554ee449cd2f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"db157543-a2c5-4f31-9d6d-af29f77493d4","name":"db157543-a2c5-4f31-9d6d-af29f77493d4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"07703839-5585-487b-ad74-d7a4a40f8dca","name":"07703839-5585-487b-ad74-d7a4a40f8dca","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -22,7 +24,26 @@
     {"$GMImageLayer":"","%Name":"5b9166ac-880c-4680-b816-f97fcfe4b9c6","blendMode":0,"displayName":"default","isLocked":false,"name":"5b9166ac-880c-4680-b816-f97fcfe4b9c6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"_7",
-  "nineSlice":null,
+  "nineSlice":{
+    "$GMNineSliceData":"",
+    "bottom":0,
+    "enabled":false,
+    "guideColour":[4294902015,4294902015,4294902015,4294902015,],
+    "highlightColour":1728023040,
+    "highlightStyle":0,
+    "left":0,
+    "resourceType":"GMNineSliceData",
+    "resourceVersion":"2.0",
+    "right":0,
+    "tileMode":[
+      0,
+      0,
+      0,
+      0,
+      0,
+    ],
+    "top":0,
+  },
   "origin":0,
   "parent":{
     "name":"Blue and Yellow Neon Retro Pixel Art Game Night Game Presentation",
@@ -49,7 +70,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":3.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -59,7 +80,7 @@
     },
     "name":"_7",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":15.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -71,6 +92,12 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"acd7e185-e58a-4456-bbc6-554ee449cd2f","path":"sprites/_7/_7.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"14ebfe72-0a08-4adc-94b5-92f73e9db09b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"db157543-a2c5-4f31-9d6d-af29f77493d4","path":"sprites/_7/_7.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"72aaf8c0-a5dc-4e52-93b5-0efb8797c1df","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"07703839-5585-487b-ad74-d7a4a40f8dca","path":"sprites/_7/_7.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"2765caee-f9c9-4758-9a08-ec685250d3b5","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
