@@ -1,5 +1,7 @@
 function player_death(_target_object)
 {
-	if (place_meeting(x, y, _target_object))
-		room_restart();
+	// CHECK FOR DEATH CONDITION (SE O PERSONAGEM ATINGIR O LIMITE INFERIOR)
+    if (y >= room_height - sprite_height + 96) {
+        room_restart();
+	}
 }

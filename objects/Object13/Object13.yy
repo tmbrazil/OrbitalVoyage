@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"rocket",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Object13",
+  "eventList":[],
   "managed":true,
-  "name":"rocket",
+  "name":"Object13",
   "overriddenProperties":[],
   "parent":{
     "name":"Jogo",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"_7",
-    "path":"sprites/_7/_7.yy",
+    "name":"Sprite25",
+    "path":"sprites/Sprite25/Sprite25.yy",
   },
   "spriteMaskId":null,
   "visible":true,
