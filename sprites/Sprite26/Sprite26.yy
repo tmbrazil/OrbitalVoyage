@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":32,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"a4fe734a-eff5-4112-a540-34ecbf9e3411","blendMode":0,"displayName":"default","isLocked":false,"name":"a4fe734a-eff5-4112-a540-34ecbf9e3411","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"fase1-comeco",
-    "path":"fase1-comeco.yyp",
+    "name":"game",
+    "path":"game.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":32,
 }

@@ -9,7 +9,7 @@ draw_set_color(c_white);
 draw_set_halign(fa_center);
 draw_set_valign(fa_center);
 
-draw_text_ext(x ,y ,texto,65,850);
+draw_text_ext(x ,y ,texto,30,600);
 
 draw_set_font(-1);
 draw_set_color(c_black);

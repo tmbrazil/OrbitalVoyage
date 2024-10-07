@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"fase1-comeco",
-    "path":"fase1-comeco.yyp",
+    "name":"game",
+    "path":"game.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

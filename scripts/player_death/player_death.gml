@@ -4,4 +4,9 @@ function player_death(_target_object)
     if (y >= room_height - sprite_height + 96) {
         room_restart();
 	}
+	
+	if (place_meeting(x, y, Object16))
+	{
+		room_restart();
+	}
 }
