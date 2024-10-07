@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"transition",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"transition",
+  "parent":{
+    "name":"Jogo",
+    "path":"folders/Cenas/Jogo.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
