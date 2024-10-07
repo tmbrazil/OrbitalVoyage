@@ -1,6 +1,6 @@
 # 🌌 Orbital Voyage
 
-[Watch our Pitch Video on YouTube!]((https://www.youtube.com/watch?v=THQJKJ3J-Ro)
+[Watch our Pitch Video on YouTube!](https://www.youtube.com/watch?v=THQJKJ3J-Ro)
 
 ## ⏩ About the game
 We have made an interactive platform for astronauts 🚀 that aims to entertain them and keep them healthy 🏋️‍♂️ when they are on mission to the ISS. Through cooperative games, such as a quiz ❓ and exercises guided by Max Cosmo 🌟, our main character, the life of astronauts on mission can be a little more fun. In the Quiz, astronauts will be able to challenge their knowledge of astrophysics 🪐, and in the mini-game, the player will accompany Max Cosmo in his fight for survival ⚔️. The exercise section was created to maintain health in microgravity 🌌. Keeping the mind and body of crew members healthy is essential in long-term missions to avoid mental and physical problems.
