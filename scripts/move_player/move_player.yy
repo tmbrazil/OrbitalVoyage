@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"move_player",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"move_player",
+  "parent":{
+    "name":"Jogo",
+    "path":"folders/Cenas/Jogo.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

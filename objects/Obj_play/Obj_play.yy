@@ -27,8 +27,8 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"room_destino","filters":[],"listItems":[],"multiselect":false,"name":"room_destino","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"R_Menu","path":"rooms/R_Menu/R_Menu.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"R_Menu","varType":5,},
-    {"$GMObjectProperty":"v1","%Name":"texto","filters":[],"listItems":[],"multiselect":false,"name":"texto","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"Play\"","varType":2,},
+    {"$GMObjectProperty":"v1","%Name":"room_destino","filters":[],"listItems":[],"multiselect":false,"name":"room_destino","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"level1_1","path":"rooms/level1_1/level1_1.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"level1_1","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"texto","filters":[],"listItems":[],"multiselect":false,"name":"texto","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"Respawn\"","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
