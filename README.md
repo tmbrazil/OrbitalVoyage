@@ -21,7 +21,7 @@ installed on your machine.
 First, clone this repository to your machine.
 
 ```
-git clone https://github.com/brenovsky/OrbitalVoyage.git
+git clone https://github.com/tmbrazil/OrbitalVoyage.git
 ```
 After cloning the repository, run the file ``game.yyp`` with the GameMaker software. After that, you only need to run the program in the IDE.
 
